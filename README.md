@@ -33,7 +33,7 @@ LFLiveKit
 - [ ] 	~~FLV package and send~~
 
 ## Requirements
-    - iOS 7.0+
+    - iOS 8.0+
     - Xcode 7.3
   
 ## Installation
@@ -42,7 +42,7 @@ LFLiveKit
 	# To integrate LFLiveKit into your Xcode project using CocoaPods, specify it in your Podfile:
 
 	source 'https://github.com/CocoaPods/Specs.git'
-	platform :ios, '7.0'
+	platform :ios, '8.0'
 	pod 'LFLiveKit'
 	
 	# Then, run the following command:
